@@ -1,4 +1,4 @@
-ppipeline{
+pipeline{
  environment {
  registry = "jacquiliv/vatcal"
         registryCredentials = "dockerhub_id"
